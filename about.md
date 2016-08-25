@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Our research interest is on development of novel computational methods, based on statistical machine learning and signal/image processing techniques, to detect and integrate genomics, trancriptomics, and epigenomics (genomics) features. 
+Our research interest is on development of novel computational methods, based on statistical machine learning and signal/image processing techniques, to detect and integrate genomics, trancriptomics, and epigenomics (genomics) data. 
 
 ### Research Projects
 
