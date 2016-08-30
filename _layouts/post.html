@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Written on {{ page.date | date: "%B %e, %Y" }} by <a href="{{page.author_website}}" target="_blank">{{page.author}}</a>
   </div>
 
   {% include disqus.html %}
